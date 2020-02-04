@@ -1,0 +1,202 @@
+*{
+    margin: 0;
+    padding: 0;   
+}
+body{
+    overflow-x: hidden;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #505962;
+}
+.navbar{
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: .9rem;
+    letter-spacing: .1rem;
+    background: rgba(0,0,0,0.7) !important;
+}
+.navbar-brand img{
+    height: 2rem;
+}
+.navbar-nav li{
+    padding-right: .7rem;
+}
+.navbar-dark .navbar-nav .nav-link{
+    color: white;
+    padding-top: .8rem;
+}
+.navbar-dark .navbar-nav .nav-link.active,
+.navbar-dark .navbar-nav .nav-link:hover{
+    color: white !important; 
+}
+.home-inner{
+    background-image: url(images/home.jpg);
+}
+/* .caption{
+    width: 100%;
+    max-width: 100%;
+    position: absolute;
+    top: 38%;
+    z-index: 1;
+    color: white;
+    text-transform: uppercase;
+}
+.caption h1{
+    font-size: 3.2rem;
+    font-weight: 700;
+    letter-spacing: .3rem;
+    text-shadow: .1rem .1rem .8rem black;
+    padding-bottom: 1rem;
+}
+.caption h3{
+    font-size: 2rem;
+    text-shadow: .1rem .1rem .5rem black;
+    padding-bottom: 1.6rem;
+}
+.btn-lg{
+    border-width: medium!important;
+    border-radius: 0!important;
+    padding: .6rem 1.3rem;
+    font-size: 1.1rem;
+}
+
+.container{
+    position: relative;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    width: 1100px;
+}
+.card{
+    border: 0px!important;
+}
+#menu{
+    background: #ebf5fc;
+}
+.container .card{
+    width: 320px;
+    margin: 20px;
+    padding: 40px 30px;
+    background: #ebf5fc;
+    box-shadow: -6px -6px 20px rgba(255,255,255,1),6px 6px 20px rgba(0,0,0,0.1);
+    border-radius: 40px;
+
+}
+.container .card:hover{
+    box-shadow: inset -6px -6px 10px rgba(255,255,255,0.5),inset 6px 6px 20px rgba(0,0,0,0.05);
+}
+.container .card .imgBx{
+    position: relative;
+    text-align: center;
+}
+.container .card .imgBx img{
+    max-width: 120px;
+}
+.container .card .contentBx{
+    position: relative;
+    margin-top: 20px;
+    text-align: center;
+}
+.container .card .contentBx h2{
+    color:#623623;
+    font-weight: 700;
+    font-size: 1.7em;
+    letter-spacing: 2px;
+}
+.container .card .contentBx p{
+    color:#623623;
+}
+.container .card:hover .imgBx,
+.container .card:hover .contentBx{
+    transform: scale(0.98);
+} 
+.fixed{
+    background-image: url(image/shotstash_0042-1.jpg);
+}
+.col-md-4 img{
+    box-shadow: 0 10px 15px rgba(0,0,0,0.5);
+}
+#about p{
+    font-size: 1.3em;
+}
+.jumbotron{
+    margin-bottom: 0;
+    padding: 2rem 0 3.5rem;
+    border-radius: 0;
+}
+h3.heading{
+    font-size: 1.9rem;
+    font-weight: 700;
+    margin-bottom: 1.9rem;
+}
+.heading-underline{
+    width: 3rem;
+    height: .2rem;
+    background-color: #eba674;
+    margin: 0 auto 2rem;
+}
+footer{
+    background-color: #40474e;
+    color: white;
+    padding: 2rem 0 2rem;
+    margin-top: 1rem;
+}
+footer img{
+    height: 4rem;
+    margin: 1.5rem 0;
+}
+footer a{
+    color: white;
+}
+footer .fab{
+    font-size: 1.6rem;
+    margin: 1.2rem .5rem 0 0;
+}  
+footer .fab:hover{
+    color: #eba674!important;
+}
+hr.socket{
+    width:100%;
+    border-top: .2rem solid #666b71;
+    margin-top: 3rem;
+}
+
+@media (max-width: 767px){
+    .caption h1{
+        font-size: 2.3rem;
+        letter-spacing: .15rem;
+        padding-bottom: .5rem;
+    }
+    .caption h3{
+        font-size: 1.2rem;
+        padding-bottom: 1.2rem;
+    }
+    .btn-lg{
+        padding: .5rem 1rem;
+        font-size: 1rem;
+    }
+    .container .card .contentBx h2{
+        color:#623623;
+        font-size: 1.2em;
+        letter-spacing: .15rem;
+    }
+    .container .card .imgBx img{
+        max-width: 90px;
+    }
+
+} */
+
+
+
+/*
+@media (min-width: 576px) { ... }
+
+
+@media (min-width: 768px) { ... }
+
+
+@media (min-width: 992px) { ... }
+
+
+@media (min-width: 1200px) { ... }
+*/
